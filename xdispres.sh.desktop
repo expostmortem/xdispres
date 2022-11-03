@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=/home/xp986/.config/.xdispres.sh
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=gnome-terminal-profile-switcher
+Name=gnome-terminal-profile-switcher
+Comment[en_US]=
+Comment=
